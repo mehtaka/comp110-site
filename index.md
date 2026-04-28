@@ -6,10 +6,6 @@ Welcome to my COMP 110 website.
 
 I am a student at UNC Chapel Hill studying Business Administration. I am interested in law, finance, entrepreneurship, and technology.
 
-## My Project
+## Project Page
 
-This website will be used to share my COMP 110 work and course project.
-
-## Contact
-
-GitHub: mehtaka
+[View My EX09 Project](./project/)
