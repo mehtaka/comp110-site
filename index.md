@@ -1,13 +1,15 @@
----
-# Do not edit the text between these lines!
-layout: default
----
+# Aaryan Mehta
 
-# This is a big header
+Welcome to my COMP 110 website.
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+## About Me
 
-## This is a small header
+I am a student at UNC Chapel Hill studying Business Administration. I am interested in law, finance, entrepreneurship, and technology.
 
-This is basic paragraph text.
+## My Project
+
+This website will be used to share my COMP 110 work and course project.
+
+## Contact
+
+GitHub: mehtaka
