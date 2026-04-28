@@ -3,7 +3,7 @@ email: akmehta@ad.unc.edu
 description: >-
   COMP 110 Personal Website and EX09 Data Analysis Project.
 baseurl: "/comp110-site"
-url: "https://mehtaka.github.io"
+url: "mehtaka.github.io"
 github_username: mehtaka
 
 remote_theme: "jekyll/minima@1e8a445"
